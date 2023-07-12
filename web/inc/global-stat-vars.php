@@ -1,9 +1,9 @@
 <?php
 
 	$host = "localhost"; //database location
-	$user = "thebsha1_admin"; // PROD database username
+	$user = "webjhote_admin"; // PROD database username
 	$pass = "theBsh@rps"; // PROD database password
-	$db_name = "thebsha1_ladder"; //database name
+	$db_name = "webjhote_ladder"; //database name
 
 
 	$thisSeason = "18s";
