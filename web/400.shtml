@@ -1,0 +1,228 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+	<title>For Hun, Dread | The B-Sharps Basketball Club.</title>
+    <meta name="description" content="The B-Sharps Basketball Club Team.  The official site of The B-Sharps Basketball Club." />
+	<meta name="author" content="James Ho">
+	<meta name="viewport" viewport-modifier content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no" />
+
+	<link rel="shortcut icon" href="/favicon.ico">
+
+	<link href='http://fonts.googleapis.com/css?family=Oswald:400,700,300|Roboto:400,300italic,300,100italic,100,400italic,500,700,500italic,700italic,900,900italicOpen+Sans:400,700,800italic,800,700italic,600italic,400italic|Lato:400,700,900,900italic,700italic,400italic' rel='stylesheet' type='text/css'>
+	<link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet"/>
+    <link rel="stylesheet" type="text/css" href="/static/dist/css/core.css?v=4.1" />
+
+    <script src="/static/dist/js/combined.min.js?v=4.1"></script>
+
+    <script src="/static/dist/js/app.js?v=4.1"></script>
+	<script src="/static/dist/js/directives.js?v=4.1"></script>
+	<script src="/static/dist/js/leagues-seasons-rounds-controller.js?v=4.1"></script>
+	<script src="/static/dist/js/team-list-controller.js?v=4.1"></script>
+    <script src=""></script>
+
+</head>
+<body id="the-team" class="" ng-app="theBsharpsApp">
+
+	<div id="outer-wrapper">
+		<header class="main-header" ng-class="{'active': showNav}">
+
+			<div class="hidden-desktop">
+    <div class="nav-container" ng-class="{'expand': showNav}" ng-blur="showNav = !showNav;">
+        <nav class="mobile-menu">
+            <div class="hr faded"></div>
+            <ul class="primary">
+                <li class="sub">
+                    <div class="faux-link" ng-click="showNav = true; showTeamSub = !showTeamSub">
+                        <div class="first-level">
+                            <span class="icon flaticon-basketball"></span>
+                            <span class="text-mob">The Team</span>
+                        </div>
+                        <div class="second-level" ng-class="{'expand': showTeamSub}">
+                            <ul ng-controller="teamListController" ng-init="init();">
+                                <li ng-repeat="player in players | orderBy:'pno':false | orderEmpty:'pno':'toBottom'" class="players"><a ng-href="/team/{{::player.url}}#?pid={{::player.PID}}"><span class="no">#{{::player.pno}}</span><span class="separator"></span><span class="name">{{::player.PName}}</span></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+                <li class="sub">
+                    <a href="/results-schedule" class="">
+                        <div class="first-level">
+                            <span class="icon flaticon-business"></span>
+                            <span class="text-mob">Results &amp; Schedule</span>
+                        </div>
+                    </a>
+                </li>
+                <li class="sub">
+                    <div class="faux-link" ng-click="showNav = true; showStatsSub = !showStatsSub">
+                        <div class="first-level">
+                            <span class="icon flaticon-statistics"></span>
+                            <span class="text-mob">Stats</span>
+                        </div>
+                        <div class="second-level" ng-class="{'expand': showStatsSub}">
+                            <ul ng-init="getLatestRound();">
+                                <li><a href="/stats">Totals</a></li>
+                                <li><a href="/stats/records">Record Breakers</a></li>
+                                <li><a href="/stats/player-comparison">Player Comparison</a></li>
+                                <li><a href="/box-score#?league={{defaultLeague}}&amp;season={{defaultSeason}}&amp;roundID={{latestRoundId}}">Box Scores</a></li>
+                                <li><a href="/stats/pers">PER's</a></li>
+                                <li><a href="/stats/team">Team Stats</a></li>
+                                <li><a href="/stats/random">Random Stats</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <a href="/ladder" class="">
+                        <div class="first-level">
+                            <span class="icon flaticon-racing-flag"></span>
+                            <span class="text-mob">Ladder</span>
+                        </div>
+                    </a>
+                </li>
+            </ul>
+        </nav>
+    </div>
+    <a href="#" class="hidden-desktop burger" ng-click="showNav = !showNav;" ng-blur="showNav = !showNav;" ng-class="{'active': showNav}">
+        <span class="flaticon-lines-menu"></span>
+    </a>
+</div>
+
+			<div class="logo-container">
+		        <a href="/" class="logo main">
+					<h4>Basketball club est. 2004</h4>
+					<h3><span class="text">The B</span><span class="icon"></span><span class="text last">Sharps</span></h3>
+				</a>
+			</div>
+
+	        
+<nav class="nav hidden-mobile" ng-controller="navigation">
+    <ul class="primary">
+        <li class="sub dropdown" ng-mouseenter="toggleDropdown($event, 1)" ng-mouseleave="toggleDropdownOff($event, 1)" ng-click="goToPage('/team');">
+            <a href="javascript:void(0);" class="top-level dropdown-toggle active" ng-init="count=0"><span class="text">the team</span><span class="arrow-down" ng-class="{'fadeOut': status.isopen}"></span></a>
+            <div class="sub-menu team dropdown-menu" ng-class="{'expand': status.isopen}">
+                <div class="inner-container">
+                    <div class="content">
+                        <h2>The Team.</h2>
+                        <ul ng-controller="teamListController" ng-init="init();">
+                            <li ng-repeat="player in players | orderBy:'pno':false | orderEmpty:'pno':'toBottom'" class="players"><a ng-href="/team/{{::player.url}}#?pid={{::player.PID}}"><span class="no">#{{::player.pno}}</span><span class="separator"></span><span class="name">{{::player.PName}}</span></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </li>
+
+        <li class="divide"></li>
+        <li class="sub dropdown" ng-mouseenter="toggleDropdown($event, 2)" ng-mouseleave="toggleDropdownOff($event, 2)" ng-click="goToPage('/results-schedule');">
+            <a href="javascript:void(0);" class="top-level dropdown-toggle "><span class="text">results &amp; schedule</span><span class="arrow-down" ng-class="{'fadeOut': status2.isopen}"></span></a>
+            <div class="sub-menu sched dropdown-menu" ng-class="{'expand': status2.isopen}">
+                <div class="inner-container">
+                    <div class="content">
+                        <h2>Results &amp; Schedule.</h2>
+                        <ul>
+                            <li><a href="/results-schedule">Thursday Comp</a><li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </li>
+        <li class="divide"></li>
+        <li class="sub dropdown" ng-mouseenter="toggleDropdown($event, 3)" ng-mouseleave="toggleDropdownOff($event, 3)" ng-click="goToPage('/stats');">
+            <a href="#" class="top-level dropdown-toggle "><span class="text">stats</span><span class="arrow-down" ng-class="{'fadeOut': status3.isopen}"></span></a>
+            <div class="sub-menu stats dropdown-menu" ng-class="{'expand': status3.isopen}">
+                <div class="inner-container">
+                    <div class="content">
+                        <h2>Stats.</h2>
+                        <ul ng-init="getLatestRound();">
+                            <li><a href="/stats">Totals</a></li>
+                            <li><a href="/stats/records">Record Breakers</a></li>
+                            <li><a href="/stats/player-comparison">Player Comparison</a></li>
+                            <li><a href="/box-score#?league={{defaultLeague}}&amp;season={{defaultSeason}}&amp;roundID={{latestRoundId}}">Box Scores</a></li>
+                            <li><a href="/stats/pers">PER's</a></li>
+                            <li><a href="/stats/team">Team Stats</a></li>
+                            <li><a href="/stats/random">Random Stats</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </li>
+        <li class="divide"></li>
+        <li><a href="/ladder" class="top-level "><span class="text">ladder</span></a></li>
+    </ul>
+</nav>
+
+	    </header>
+
+		<div class="wrapper">
+			<div class="hr faded nav-content-hr"></div>
+		    <div class="main-content">
+
+		        	
+	<div id="team" ng-controller="teamListController" ng-init="init();" ng-cloak>
+        
+        <div id="four-oh-four">
+            <div class="crumbs clearfix">
+                <ul>
+                    <li class="title"><h1>Well, you can't blame a guy for trying</h1></li>
+                </ul>
+            </div>
+            <p>The page you're looking for cannot be found.</p>
+            <p>Thank you, <a href="/">come again</a>.</p>
+            <img src="/static/img/bhsarps-404.gif" alt="404" />
+        </div>
+
+    </div>
+
+
+
+
+    </div>
+</div>
+
+	    
+<footer class="footer">
+    <div class="content">
+        <div class="hr faded hidden-desktop"></div>
+        <div class="logo-menu">
+            <a href="#" class="logo med">
+                <h4>Basketball club est. 2004</h4>
+    			<h3><span class="text">The B</span><span class="icon"></span><span class="text last">Sharps</span></h3>
+            </a>
+            <ul class="primary">
+                <li class="sub">
+                    <a href="/team" >the team</span></a>
+                </li>
+                <li class="sub">
+                    <a href="/results-schedule">results &amp; schedule</span></a>
+                </li>
+                <li class="sub">
+                    <a href="/stats/">stats</span></a>
+                </li>
+                <li><a href="/ladder">ladder</a></li>
+            </ul>
+        </div>
+
+        <div class="web-by">
+            <a href="http://www.webjho.com" class="logo-webjho" target="_blank"><img src="/static/img/logo-webjho.png" alt="webjho.com" /></a>
+        </div>
+    </div>
+
+</footer>
+	</div>
+    
+    <script>
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','https://www.google-analytics.com/analytics.js?v=4.1','ga');
+		ga('create', 'UA-81117876-1', 'auto');
+		ga('send', 'pageview');
+	</script>
+
+</body>
+</html>

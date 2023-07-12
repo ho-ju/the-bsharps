@@ -1,0 +1,60 @@
+
+@base-font-size:              16px;
+@base-line-height:            1.4;
+@base-margin:                 24px;
+@base-font-color:             #666;
+@base-font-family:            sans-serif;
+@base-select-bg-color:        #f00;
+@base-select-color:           #fff;
+
+@hr-border-color:             #666;
+
+
+// LINKS
+// --------------------------------------------------
+
+@link-color:                  #f00;
+@link-visited-color:          #f00;
+@link-hover-color:            #f00;
+
+
+// COLOURS
+// --------------------------------------------------
+@placeholder-text:            #ccc;
+@green:                       #46a546;
+
+
+// GRID
+// --------------------------------------------------
+
+
+// Default 940px grid
+// --------------------------------------------------
+@grid-columns:                12;
+@grid-column-width:           60px;
+@grid-gutter-width:           20px;
+@grid-row-width:              (@grid-columns * @grid-column-width) + (@grid-gutter-width * (@grid-columns - 1));
+
+// 1200px min
+@grid-column-width1200:       70px;
+@grid-gutter-width1200:       30px;
+@grid-row-width1200:          (@grid-columns * @grid-column-width1200) + (@grid-gutter-width1200 * (@grid-columns - 1));
+
+// 768px-979px
+@grid-column-width768:        42px;
+@grid-gutter-width768:        20px;
+@grid-row-width768:           (@grid-columns * @grid-column-width768) + (@grid-gutter-width768 * (@grid-columns - 1));
+
+
+// Fluid grid
+// --------------------------------------------------
+@fluid-grid-column-width:      percentage(@grid-column-width/@grid-row-width);
+@fluid-grid-gutter-width:      percentage(@grid-gutter-width/@grid-row-width);
+
+// 1200px min
+@fluid-grid-column-width1200:  percentage(@grid-column-width1200/@grid-row-width1200);
+@fluid-grid-gutter-width1200:  percentage(@grid-gutter-width1200/@grid-row-width1200);
+
+// 768px-979px
+@fluid-grid-column-width768:   percentage(@grid-column-width768/@grid-row-width768);
+@fluid-grid-gutter-width768:   percentage(@grid-gutter-width768/@grid-row-width768);

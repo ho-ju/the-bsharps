@@ -1,0 +1,20 @@
+{
+  "name": "thebsharps",
+  "version": "0.0.1",
+  "description": "Load all the appropriate Grunt dependencies",
+  "author": "JHo",
+  "repository": {
+    "type": "git",
+    "url": "https://bitbucket.org/hoju20/thebsharps.git"
+  },
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "grunt": "~1.0.1",
+    "grunt-autoprefixer": "^3.0.4",
+    "grunt-contrib-connect": "~1.0.2",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-less": "^1.4.1",
+    "grunt-contrib-uglify": "^2.3.0",
+    "grunt-contrib-watch": "^1.0.0"
+  }
+}

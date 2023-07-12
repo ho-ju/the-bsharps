@@ -1,0 +1,13 @@
+Notes:
+
+- Fallback for shizen browsers
+- Loading of images, don't want everything loading on first load - page by page basis
+- If mainly just background images, preload at start?
+- Hash support?
+
+- Content population, if content is too wide / long
+- Testing process / bugs
+
+- Adding Nav Tracking for each page (update nav for page scrolling)
+- Reset sub-page horizontal slider when sliding down? Managing multiple subpage sliders (UNSLIDER PLUGIN, reset width)
+

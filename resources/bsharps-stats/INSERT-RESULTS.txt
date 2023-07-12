@@ -1,0 +1,2582 @@
+===========================
+
+Winter Season 2017, THURSDAY
+
+===========================
+
+-- Round 13
+UPDATE tb_schedule
+SET resultT1='36', result='LST', resultT2='43', gamePlayed=1
+WHERE roundID = 458;
+
+-- Round 12
+UPDATE tb_schedule
+SET resultT1='22', result='LST', resultT2='29', gamePlayed=1
+WHERE roundID = 457;
+
+-- Round 11
+UPDATE tb_schedule
+SET resultT1='45', result='LST', resultT2='54', gamePlayed=1
+WHERE roundID = 456;
+
+-- Round 10
+UPDATE tb_schedule
+SET resultT1='31', result='LST', resultT2='46', gamePlayed=1
+WHERE roundID = 455;
+
+-- Round 9
+UPDATE tb_schedule
+SET resultT1='23', result='LST', resultT2='45', gamePlayed=1
+WHERE roundID = 454;
+
+-- Round 8
+UPDATE tb_schedule
+SET resultT1='36', result='LST', resultT2='75', gamePlayed=1
+WHERE roundID = 453;
+
+-- Round 7
+UPDATE tb_schedule
+SET resultT1='30', result='LST', resultT2='55', gamePlayed=1
+WHERE roundID = 452;
+
+-- Round 6
+UPDATE tb_schedule
+SET resultT1='23', result='LST', resultT2='41', gamePlayed=1
+WHERE roundID = 451;
+
+-- Round 5
+UPDATE tb_schedule
+SET resultT1='19', result='LST', resultT2='26', gamePlayed=1
+WHERE roundID = 450;
+
+-- Round 4
+UPDATE tb_schedule
+SET resultT1='35', result='DEF', resultT2='15', gamePlayed=1
+WHERE roundID = 449;
+
+-- Round 3
+UPDATE tb_schedule
+SET resultT1='40', result='LST', resultT2='45', gamePlayed=1
+WHERE roundID = 448;
+
+-- Round 2
+UPDATE tb_schedule
+SET resultT1='29', result='LST', resultT2='57', gamePlayed=1
+WHERE roundID = 447;
+
+-- Round 1
+UPDATE tb_schedule
+SET resultT1='31', result='LST', resultT2='57', gamePlayed=1
+WHERE roundID = 446;
+
+-- Grading 2
+UPDATE tb_schedule
+SET resultT1='39', result='LST', resultT2='54', gamePlayed=1
+WHERE roundID = 445;
+
+-- Grading 1
+UPDATE tb_schedule
+SET resultT1='36', result='LST', resultT2='61', gamePlayed=1
+WHERE roundID = 444;
+
+
+===========================
+
+Winter Season 2017, THURSDAY
+
+===========================
+
+-- Round 17
+UPDATE tb_schedule
+SET resultT1='33', result='LST', resultT2='44', gamePlayed=1
+WHERE roundID = 443;
+
+-- Round 16
+UPDATE tb_schedule
+SET resultT1='37', result='DEF', resultT2='34', gamePlayed=1
+WHERE roundID = 442;
+
+-- Round 15
+UPDATE tb_schedule
+SET resultT1='43', result='DEF', resultT2='27', gamePlayed=1
+WHERE roundID = 441;
+
+-- Round 14
+UPDATE tb_schedule
+SET resultT1='32', result='DEF', resultT2='24', gamePlayed=1
+WHERE roundID = 440;
+
+-- Round 13
+UPDATE tb_schedule
+SET resultT1='33', result='LST', resultT2='35', gamePlayed=1
+WHERE roundID = 439;
+
+-- Round 12
+UPDATE tb_schedule
+SET resultT1='44', result='DEF', resultT2='32', gamePlayed=1
+WHERE roundID = 438;
+
+-- Round 11
+UPDATE tb_schedule
+SET resultT1='25', result='LST', resultT2='39', gamePlayed=1
+WHERE roundID = 437;
+
+-- Round 10
+UPDATE tb_schedule
+SET resultT1='25', result='LST', resultT2='26', gamePlayed=1
+WHERE roundID = 436;
+
+-- Round 9
+UPDATE tb_schedule
+SET resultT1='18', result='LST', resultT2='41', gamePlayed=1
+WHERE roundID = 435;
+
+-- Round 8
+UPDATE tb_schedule
+SET resultT1='38', result='LST', resultT2='44', gamePlayed=1
+WHERE roundID = 434;
+
+-- Round 7
+UPDATE tb_schedule
+SET resultT1='25', result='LST', resultT2='64', gamePlayed=1
+WHERE roundID = 433;
+
+-- Round 6
+UPDATE tb_schedule
+SET resultT1='24', result='LST', resultT2='34', gamePlayed=1
+WHERE roundID = 432;
+
+-- Round 5
+UPDATE tb_schedule
+SET resultT1='0', result='BYE', resultT2='0', gamePlayed=0
+WHERE roundID = 431;
+
+-- Round 4
+UPDATE tb_schedule
+SET resultT1='33', result='LST', resultT2='45', gamePlayed=1
+WHERE roundID = 430;
+
+-- Round 3
+UPDATE tb_schedule
+SET resultT1='28', result='LST', resultT2='41', gamePlayed=1
+WHERE roundID = 429;
+
+-- Round 2
+UPDATE tb_schedule
+SET resultT1='31', result='LST', resultT2='43', gamePlayed=1
+WHERE roundID = 428;
+
+--Round 1
+UPDATE tb_schedule
+SET resultT1='42', result='LST', resultT2='52', gamePlayed=1
+WHERE roundID = 427;
+
+-- Grading 2
+UPDATE tb_schedule
+SET resultT1='37', result='DEF', resultT2='33', gamePlayed=1
+WHERE roundID = 426;
+
+
+-- Grading 1
+UPDATE tb_schedule
+SET resultT1='25', result='LST', resultT2='37', gamePlayed=1
+WHERE roundID = 425;
+
+
+===========================
+
+Summer Season 2017, THURSDAY
+
+===========================
+
+-- Semi
+UPDATE tb_schedule
+SET resultT1='47', result='LST', resultT2='48', gamePlayed=1
+WHERE roundID = 424;
+
+-- Round 16
+UPDATE tb_schedule
+SET resultT1='46', result='DEF', resultT2='31', gamePlayed=1
+WHERE roundID = 423;
+
+-- Round 15
+UPDATE tb_schedule
+SET resultT1='29', result='LST', resultT2='45', gamePlayed=1
+WHERE roundID = 422;
+
+-- Round 14
+UPDATE tb_schedule
+SET resultT1='39', result='LST', resultT2='62', gamePlayed=1
+WHERE roundID = 421;
+
+-- Round 13
+UPDATE tb_schedule
+SET resultT1='32', result='DEF', resultT2='28', gamePlayed=1
+WHERE roundID = 420;
+
+-- Round 12
+UPDATE tb_schedule
+SET resultT1='37', result='DEF', resultT2='34', gamePlayed=1
+WHERE roundID = 419;
+
+-- Round 11
+UPDATE tb_schedule
+SET resultT1='38', result='DEF', resultT2='28', gamePlayed=1
+WHERE roundID = 418;
+
+-- Round 10
+UPDATE tb_schedule
+SET resultT1='32', result='LST', resultT2='41', gamePlayed=1
+WHERE roundID = 417;
+
+-- Round 9
+UPDATE tb_schedule
+SET resultT1='22', result='LST', resultT2='40', gamePlayed=1
+WHERE roundID = 416;
+
+-- Round 8
+UPDATE tb_schedule
+SET resultT1='26', result='LST', resultT2='44', gamePlayed=1
+WHERE roundID = 415;
+
+-- Round 7
+UPDATE tb_schedule
+SET resultT1='0', result='BYE', resultT2='0', gamePlayed=0
+WHERE roundID = 414;
+
+-- Round 6
+UPDATE tb_schedule
+SET resultT1='44', result='DEF', resultT2='34', gamePlayed=1
+WHERE roundID = 413;
+
+-- Round 5
+UPDATE tb_schedule
+SET resultT1='29', result='LST', resultT2='50', gamePlayed=1
+WHERE roundID = 412;
+
+-- Round 4
+UPDATE tb_schedule
+SET resultT1='47', result='LST', resultT2='56', gamePlayed=1
+WHERE roundID = 411;
+
+-- Round 3
+UPDATE tb_schedule
+SET resultT1='19', result='LST', resultT2='47', gamePlayed=1
+WHERE roundID = 410;
+
+-- Round 2
+UPDATE tb_schedule
+SET resultT1='30', result='LST', resultT2='40', gamePlayed=1
+WHERE roundID = 409;
+
+
+-- Round 1
+UPDATE tb_schedule
+SET resultT1='52', result='DEF', resultT2='39', gamePlayed=1
+WHERE roundID = 408;
+
+-- Grading 2
+UPDATE tb_schedule
+SET resultT1='32', result='LST', resultT2='48', gamePlayed=1
+WHERE roundID = 407;
+
+-- Grading 1
+UPDATE tb_schedule
+SET resultT1='40', result='DEF', resultT2='28', gamePlayed=1
+WHERE roundID = 406;
+
+
+
+===========================
+
+Summer Season 2016, THURSDAY
+
+===========================
+
+-- ROUND 15
+UPDATE tb_schedule
+SET resultT1='24', result='LST', resultT2='46', gamePlayed=1
+WHERE roundID = 405;
+
+
+-- ROUND 14
+UPDATE tb_schedule
+SET resultT1='36', result='LST', resultT2='50', gamePlayed=1
+WHERE roundID = 404;
+
+-- ROUND 13
+UPDATE tb_schedule
+SET resultT1='38', result='LST', resultT2='40', gamePlayed=1
+WHERE roundID = 403;
+
+-- ROUND 14
+UPDATE tb_schedule
+SET resultT1='43', result='DEF', resultT2='18', gamePlayed=1
+WHERE roundID = 402;
+
+-- ROUND 13
+UPDATE tb_schedule
+SET resultT1='46', result='LST', resultT2='53', gamePlayed=1
+WHERE roundID = 401;
+
+-- ROUND 12
+UPDATE tb_schedule
+SET resultT1='36', result='LST', resultT2='49', gamePlayed=1
+WHERE roundID = 400;
+
+
+-- ROUND 11
+UPDATE tb_schedule
+SET resultT1='18', result='LST', resultT2='36', gamePlayed=1
+WHERE roundID = 399;
+
+-- ROUND 10
+UPDATE tb_schedule
+SET resultT1='43', result='LST', resultT2='48', gamePlayed=1
+WHERE roundID = 398;
+
+
+-- ROUND 9
+UPDATE tb_schedule
+SET resultT1='51', result='DEF', resultT2='43', gamePlayed=1
+WHERE roundID = 397;
+
+-- ROUND 8
+UPDATE tb_schedule
+SET resultT1='28', result='LST', resultT2='38', gamePlayed=1
+WHERE roundID = 396;
+
+-- ROUND 7
+UPDATE tb_schedule
+SET resultT1='37', result='LST', resultT2='42', gamePlayed=1
+WHERE roundID = 395;
+
+-- ROUND 6
+UPDATE tb_schedule
+SET resultT1='33', result='LST', resultT2='43', gamePlayed=1
+WHERE roundID = 394;
+
+-- ROUND 5
+UPDATE tb_schedule
+SET resultT1='26', result='LST', resultT2='29', gamePlayed=1
+WHERE roundID = 393;
+
+-- ROUND 4
+UPDATE tb_schedule
+SET resultT1='33', result='LST', resultT2='40', gamePlayed=1
+WHERE roundID = 392;
+
+-- ROUND 3
+UPDATE tb_schedule
+SET resultT1='31', result='LST', resultT2='33', gamePlayed=1
+WHERE roundID = 391;
+
+-- ROUND 2
+UPDATE tb_schedule
+SET resultT1='28', result='LST', resultT2='36', gamePlayed=1
+WHERE roundID = 390;
+
+-- ROUND 1
+UPDATE tb_schedule
+SET resultT1='49', result='LST', resultT2='69', gamePlayed=1
+WHERE roundID = 389;
+
+-- Grading 2
+UPDATE tb_schedule
+SET resultT1='43', result='DEF', resultT2='29', gamePlayed=1
+WHERE roundID = 388;
+
+-- Grading 1
+UPDATE tb_schedule
+SET resultT1='56', result='DEF', resultT2='46', gamePlayed=1
+WHERE roundID = 387;
+
+
+
+===========================
+
+Summer Season 2016, THURSDAY
+
+===========================
+
+-- Grand Final
+UPDATE tb_schedule
+SET resultT1='29', result='DEF', resultT2='38', gamePlayed=1
+WHERE roundID = 386;
+
+-- Semi Final
+UPDATE tb_schedule
+SET resultT1='28', result='DEF', resultT2='24', gamePlayed=1
+WHERE roundID = 385;
+
+-- Round 15
+UPDATE tb_schedule
+SET resultT1='40', result='LST', resultT2='49', gamePlayed=1
+WHERE roundID = 384;
+
+-- Round 14
+UPDATE tb_schedule
+SET resultT1='35', result='LST', resultT2='41', gamePlayed=1
+WHERE roundID = 383;
+
+-- Round 13
+UPDATE tb_schedule
+SET resultT1='34', result='LST', resultT2='40', gamePlayed=1
+WHERE roundID = 382;
+
+-- Round 12
+UPDATE tb_schedule
+SET resultT1='34', result='DEF', resultT2='30', gamePlayed=1
+WHERE roundID = 381;
+
+-- Round 11
+UPDATE tb_schedule
+SET resultT1='37', result='LST', resultT2='43', gamePlayed=1
+WHERE roundID = 380;
+
+-- Round 10
+UPDATE tb_schedule
+SET resultT1='10', result='DEF', resultT2='0', gamePlayed=0
+WHERE roundID = 379;
+
+-- Round 9
+UPDATE tb_schedule
+SET resultT1='36', result='LST', resultT2='54', gamePlayed=1
+WHERE roundID = 378;
+
+
+-- Round 8
+UPDATE tb_schedule
+SET resultT1='42', result='LST', resultT2='51', gamePlayed=1
+WHERE roundID = 377;
+
+-- Round 7
+UPDATE tb_schedule
+SET resultT1='0', result='BYE', resultT2='0', gamePlayed=0
+WHERE roundID = 376;
+
+-- Round 6
+UPDATE tb_schedule
+SET resultT1='38', result='DEF', resultT2='35', gamePlayed=1
+WHERE roundID = 375;
+
+-- Round 5
+UPDATE tb_schedule
+SET resultT1='32', result='LST', resultT2='44', gamePlayed=1
+WHERE roundID = 374;
+
+-- Round 4
+UPDATE tb_schedule
+SET resultT1='21', result='LST', resultT2='36', gamePlayed=1
+WHERE roundID = 373;
+
+-- Round 3
+UPDATE tb_schedule
+SET resultT1='25', result='LST', resultT2='53', gamePlayed=1
+WHERE roundID = 372;
+
+
+-- Round 2
+UPDATE tb_schedule
+SET resultT1='51', result='DEF', resultT2='37', gamePlayed=1
+WHERE roundID = 371;
+
+-- Round 1
+UPDATE tb_schedule
+SET resultT1='40', result='DEF', resultT2='27', gamePlayed=1
+WHERE roundID = 370;
+
+-- Grading 2
+UPDATE tb_schedule
+SET resultT1='32', result='DRW', resultT2='32', gamePlayed=1
+WHERE roundID = 369;
+
+
+-- Grading 1
+UPDATE tb_schedule
+SET resultT1='23', result='LST', resultT2='40', gamePlayed=1
+WHERE roundID = 368;
+
+
+
+===========================
+
+Winter Season 2015, THURSDAY
+
+===========================
+
+-- Semi Finals
+UPDATE tb_schedule
+SET resultT1='27', result='LST', resultT2='36', gamePlayed=1
+WHERE roundID = 367;
+
+-- Round 16
+UPDATE tb_schedule
+SET resultT1='40', result='LST', resultT2='50', gamePlayed=1
+WHERE roundID = 366;
+
+-- Round 15
+UPDATE tb_schedule
+SET resultT1='40', result='LST', resultT2='59', gamePlayed=1
+WHERE roundID = 365;
+
+-- Round 14
+UPDATE tb_schedule
+SET resultT1='34', result='LST', resultT2='36', gamePlayed=1
+WHERE roundID = 364;
+
+-- Round 13
+UPDATE tb_schedule
+SET resultT1='22', result='LST', resultT2='36', gamePlayed=1
+WHERE roundID = 363;
+
+
+-- Round 12
+UPDATE tb_schedule
+SET resultT1='29', result='LST', resultT2='37', gamePlayed=1
+WHERE roundID = 362;
+
+-- Round 11
+UPDATE tb_schedule
+SET resultT1='28', result='LST', resultT2='43', gamePlayed=1
+WHERE roundID = 361;
+
+-- Round 10
+UPDATE tb_schedule
+SET resultT1='22', result='LST', resultT2='61', gamePlayed=1
+WHERE roundID = 360;
+
+-- Round 9
+UPDATE tb_schedule
+SET resultT1='10', result='DEF', resultT2='0', gamePlayed=0
+WHERE roundID = 359;
+
+-- Round 8
+UPDATE tb_schedule
+SET resultT1='29', result='LST', resultT2='40', gamePlayed=1
+WHERE roundID = 358;
+
+-- Round 7
+UPDATE tb_schedule
+SET resultT1='17', result='LST', resultT2='39', gamePlayed=1
+WHERE roundID = 357;
+
+
+-- Round 6
+UPDATE tb_schedule
+SET resultT1='31', result='LST', resultT2='40', gamePlayed=1
+WHERE roundID = 356;
+
+-- Round 5
+UPDATE tb_schedule
+SET resultT1='35', result='LST', resultT2='40', gamePlayed=1
+WHERE roundID = 355;
+
+-- Round 4
+UPDATE tb_schedule
+SET resultT1='33', result='DEF', resultT2='24', gamePlayed=1
+WHERE roundID = 354;
+
+-- Round 3
+UPDATE tb_schedule
+SET resultT1='36', result='LST', resultT2='42', gamePlayed=1
+WHERE roundID = 353;
+
+-- Round 2
+UPDATE tb_schedule
+SET resultT1='28', result='LST', resultT2='44', gamePlayed=1
+WHERE roundID = 352;
+
+-- Round 1
+UPDATE tb_schedule
+SET resultT1='21', result='LST', resultT2='45', gamePlayed=1
+WHERE roundID = 351;
+
+-- Grad 2
+UPDATE tb_schedule
+SET resultT1='22', result='LST', resultT2='25', gamePlayed=1
+WHERE roundID = 350;
+
+-- Grad 1
+UPDATE tb_schedule
+SET resultT1='40', result='DEF', resultT2='36', gamePlayed=1
+WHERE roundID = 349;
+
+
+===========================
+
+
+Summer Season 2015, THURSDAY
+
+===========================
+
+-- Semi
+UPDATE tb_schedule
+SET resultT1='33', result='LST', resultT2='52', gamePlayed=1
+WHERE roundID = 348;
+
+-- Round 14
+UPDATE tb_schedule
+SET resultT1='39', result='DEF', resultT2='34', gamePlayed=1
+WHERE roundID = 347;
+
+-- Round 13
+UPDATE tb_schedule
+SET resultT1='31', result='LST', resultT2='34', gamePlayed=1
+WHERE roundID = 346;
+
+-- Round 12
+UPDATE tb_schedule
+SET resultT1='30', result='LST', resultT2='40', gamePlayed=1
+WHERE roundID = 345;
+
+-- Round 11
+UPDATE tb_schedule
+SET resultT1='27', result='LST', resultT2='51', gamePlayed=1
+WHERE roundID = 344;
+
+-- Round 10
+UPDATE tb_schedule
+SET resultT1='16', result='LST', resultT2='35', gamePlayed=1
+WHERE roundID = 343;
+
+-- Round 9
+UPDATE tb_schedule
+SET resultT1='41', result='LST', resultT2='42', gamePlayed=1
+WHERE roundID = 342;
+
+-- Round 8
+UPDATE tb_schedule
+SET resultT1='41', result='LST', resultT2='42', gamePlayed=1
+WHERE roundID = 341;
+
+-- Round 7
+UPDATE tb_schedule
+SET resultT1='23', result='LST', resultT2='37', gamePlayed=1
+WHERE roundID = 340;
+
+-- Round 6
+UPDATE tb_schedule
+SET resultT1='0', result='BYE', resultT2='0', gamePlayed=0
+WHERE roundID = 339
+
+-- Round 5
+UPDATE tb_schedule
+SET resultT1='29', result='DEF', resultT2='23', gamePlayed=1
+WHERE roundID = 338
+
+-- Round 4
+UPDATE tb_schedule
+SET resultT1='26', result='LST', resultT2='52', gamePlayed=1
+WHERE roundID = 337
+
+-- Round 3
+UPDATE tb_schedule
+SET resultT1='42', result='LST', resultT2='48', gamePlayed=1
+WHERE roundID = 336
+
+
+-- Round 1
+UPDATE tb_schedule
+SET resultT1='35', result='LST', resultT2='40', gamePlayed=1
+WHERE roundID = 334
+
+-- Grading 2
+UPDATE tb_schedule
+SET resultT1='33', result='LST', resultT2='45', gamePlayed=1
+WHERE roundID = 333
+
+-- Grading 1
+UPDATE tb_schedule
+SET resultT1='0', result='BYE', resultT2='0', gamePlayed=0
+WHERE roundID = 332
+
+
+
+
+===========================
+
+
+Winter Season 2014, THURSDAY
+
+===========================
+
+-- SEMI FInal
+UPDATE tb_schedule
+SET resultT1='43', result='LST', resultT2='45', gamePlayed=1
+WHERE roundID = 331
+
+-- Round 14
+UPDATE tb_schedule
+SET resultT1='43', result='LST', resultT2='45', gamePlayed=1
+WHERE roundID = 330
+
+-- Round 13
+UPDATE tb_schedule
+SET resultT1='43', result='DEF', resultT2='23', gamePlayed=1
+WHERE roundID = 329
+
+-- Round 12
+UPDATE tb_schedule
+SET resultT1='43', result='LST', resultT2='45', gamePlayed=1
+WHERE roundID = 328
+
+-- Round 11
+UPDATE tb_schedule
+SET resultT1='43', result='LST', resultT2='45', gamePlayed=1
+WHERE roundID = 327
+
+-- Round 10
+UPDATE tb_schedule
+SET resultT1='43', result='DEF', resultT2='23', gamePlayed=1
+WHERE roundID = 326
+
+-- Round 9
+UPDATE tb_schedule
+SET resultT1='23', result='DRW', resultT2='23', gamePlayed=1
+WHERE roundID = 325
+
+-- Round 8
+UPDATE tb_schedule
+SET resultT1='43', result='DEF', resultT2='23', gamePlayed=1
+WHERE roundID = 324
+
+-- Round 7
+UPDATE tb_schedule
+SET resultT1='46', result='LST', resultT2='49', gamePlayed=1
+WHERE roundID = 323
+
+
+-- Round 6
+UPDATE tb_schedule
+SET resultT1='32', result='DEF', resultT2='23', gamePlayed=1
+WHERE roundID = 322
+
+-- Round 5
+UPDATE tb_schedule
+SET resultT1='52', result='DEF', resultT2='38', gamePlayed=1
+WHERE roundID = 321
+
+-- Round 4
+UPDATE tb_schedule
+SET resultT1='42', result='DEF', resultT2='40', gamePlayed=1
+WHERE roundID = 320
+
+-- Round 3
+UPDATE tb_schedule
+SET resultT1='42', result='DEF', resultT2='32', gamePlayed=1
+WHERE roundID = 319
+
+-- Round 2
+UPDATE tb_schedule
+SET resultT1='32', result='LST', resultT2='40', gamePlayed=1
+WHERE roundID = 318
+
+-- Round 1
+UPDATE tb_schedule
+SET resultT1='35', result='LST', resultT2='49', gamePlayed=1
+WHERE roundID = 317
+
+-- Grading 2
+UPDATE tb_schedule
+SET resultT1='64', result='DEF', resultT2='36', gamePlayed=1
+WHERE roundID = 316
+
+
+-- Grading 1
+UPDATE tb_schedule
+SET resultT1='45', result='DRW', resultT2='45', gamePlayed=1
+WHERE roundID = 315
+
+
+
+===========================
+
+
+Summer Season 2014, THURSDAY
+
+===========================
+
+-- Grand
+UPDATE tb_schedule
+SET resultT1='47', result='LST', resultT2='61', gamePlayed=1
+WHERE roundID = 314
+
+-- Prelim
+UPDATE tb_schedule
+SET resultT1='65', result='DEF', resultT2='24', gamePlayed=1
+WHERE roundID = 313
+
+-- Semi Final
+UPDATE tb_schedule
+SET resultT1='47', result='DEF', resultT2='30', gamePlayed=1
+WHERE roundID = 312
+
+-- Round 16
+UPDATE tb_schedule
+SET resultT1='43', result='DEF', resultT2='41', gamePlayed=1
+WHERE roundID = 311
+
+-- Round 15
+UPDATE tb_schedule
+SET resultT1='45', result='DEF', resultT2='33', gamePlayed=1
+WHERE roundID = 310
+
+-- Round 14
+UPDATE tb_schedule
+SET resultT1='0', result='BYE', resultT2='0', gamePlayed=1
+WHERE roundID = 309
+
+-- Round 13
+UPDATE tb_schedule
+SET resultT1='42', result='LST', resultT2='50', gamePlayed=1
+WHERE roundID = 308
+
+-- Round 12
+UPDATE tb_schedule
+SET resultT1='40', result='DEF', resultT2='37', gamePlayed=1
+WHERE roundID = 307
+
+-- Round 11
+UPDATE tb_schedule
+SET resultT1='27', result='LST', resultT2='33', gamePlayed=1
+WHERE roundID = 306
+
+
+-- Round 10
+UPDATE tb_schedule
+SET resultT1='50', result='LST', resultT2='53', gamePlayed=1
+WHERE roundID = 305
+
+-- Round 9
+UPDATE tb_schedule
+SET resultT1='0', result='BYE', resultT2='0', gamePlayed=0
+WHERE roundID = 304
+
+-- Round 8
+UPDATE tb_schedule
+SET resultT1='40', result='DRW', resultT2='40', gamePlayed=1
+WHERE roundID = 303
+
+-- Round 7
+UPDATE tb_schedule
+SET resultT1='49', result='DEF', resultT2='40', gamePlayed=1
+WHERE roundID = 302
+
+-- Round 6
+UPDATE tb_schedule
+SET resultT1='48', result='DEF', resultT2='23', gamePlayed=0
+WHERE roundID = 301
+
+-- Round 5
+UPDATE tb_schedule
+SET resultT1='0', result='BYE', resultT2='0', gamePlayed=0
+WHERE roundID = 300
+
+-- Round 4
+UPDATE tb_schedule
+SET resultT1='0', result='BYE', resultT2='0', gamePlayed=0
+WHERE roundID = 299
+
+-- Round 3
+UPDATE tb_schedule
+SET resultT1='53', result='DEF', resultT2='28', gamePlayed=1
+WHERE roundID = 298
+
+-- Round 2
+UPDATE tb_schedule
+SET resultT1='44', result='DEF', resultT2='37', gamePlayed=1
+WHERE roundID = 297
+
+-- Round 1
+UPDATE tb_schedule
+SET resultT1='19', result='LST', resultT2='36', gamePlayed=1
+WHERE roundID = 296
+
+-- Grading 2 
+UPDATE tb_schedule
+SET resultT1='38', result='LST', resultT2='52', gamePlayed=1
+WHERE roundID = 295
+
+-- Grading 1
+UPDATE tb_schedule
+SET resultT1='42', result='LST', resultT2='60', gamePlayed=1
+WHERE roundID = 294
+
+
+===========================
+
+
+Winter Season 2013, THURSDAY
+
+===========================
+
+-- Grand Final
+UPDATE tb_schedule
+SET resultT1='38', result='LST', resultT2='50', gamePlayed=1
+WHERE roundID = 293
+
+-- Semi Final
+UPDATE tb_schedule
+SET resultT1='51', result='DEF', resultT2='42', gamePlayed=1
+WHERE roundID = 292
+
+-- Round 16
+UPDATE tb_schedule
+SET resultT1='46', result='DEF', resultT2='30', gamePlayed=1
+WHERE roundID = 291
+
+-- Round 15
+UPDATE tb_schedule
+SET resultT1='35', result='DEF', resultT2='17', gamePlayed=1
+WHERE roundID = 290
+
+-- Round 14
+UPDATE tb_schedule
+SET resultT1='48', result='DEF', resultT2='42', gamePlayed=1
+WHERE roundID = 289
+
+-- Round 13
+UPDATE tb_schedule
+SET resultT1='44', result='DEF', resultT2='32', gamePlayed=1
+WHERE roundID = 288
+
+-- Round 12
+UPDATE tb_schedule
+SET resultT1='44', result='DEF', resultT2='16', gamePlayed=1
+WHERE roundID = 287
+
+-- Round 11
+UPDATE tb_schedule
+SET resultT1='45', result='DEF', resultT2='19', gamePlayed=1
+WHERE roundID = 286
+
+-- Round 10
+UPDATE tb_schedule
+SET resultT1='19', result='LST', resultT2='28', gamePlayed=1
+WHERE roundID = 285
+
+-- Round 9
+UPDATE tb_schedule
+SET resultT1='27', result='DEF', resultT2='19', gamePlayed=1
+WHERE roundID = 284
+
+-- Round 8
+UPDATE tb_schedule
+SET resultT1='41', result='DEF', resultT2='24', gamePlayed=1
+WHERE roundID = 283
+
+-- Round 7
+UPDATE tb_schedule
+SET resultT1='17', result='LST', resultT2='33', gamePlayed=1
+WHERE roundID = 282
+
+-- Round 6
+UPDATE tb_schedule
+SET resultT1='34', result='LST', resultT2='43', gamePlayed=1
+WHERE roundID = 281
+
+-- Round 5
+UPDATE tb_schedule
+SET resultT1='30', result='DEF', resultT2='17', gamePlayed=1
+WHERE roundID = 280
+
+-- Round 4
+UPDATE tb_schedule
+SET resultT1='21', result='LST', resultT2='25', gamePlayed=1
+WHERE roundID = 279
+
+-- Round 3
+UPDATE tb_schedule
+SET resultT1='21', result='LST', resultT2='27', gamePlayed=1
+WHERE roundID = 278
+
+
+-- Round 2
+UPDATE tb_schedule
+SET resultT1='52', result='DEF', resultT2='36', gamePlayed=1
+WHERE roundID = 277
+
+-- Round 1
+UPDATE tb_schedule
+SET resultT1='33', result='DEF', resultT2='29', gamePlayed=1
+WHERE roundID = 276
+
+-- Grading 2
+UPDATE tb_schedule
+SET resultT1='0', result='BYE', resultT2='0', gamePlayed=0
+WHERE roundID = 275
+
+-- Grading 1
+UPDATE tb_schedule
+SET resultT1='0', result='BYE', resultT2='0', gamePlayed=0
+WHERE roundID = 274
+
+
+===========================
+
+
+Summer Season 2013, THURSDAY
+
+===========================
+
+-- Grand Final
+UPDATE tb_schedule
+SET resultT1='69', result='DEF', resultT2='34', gamePlayed=1
+WHERE roundID = 273
+
+-- Semi Final
+UPDATE tb_schedule
+SET resultT1='35', result='DEF', resultT2='21', gamePlayed=1
+WHERE roundID = 272
+
+-- Round 14
+UPDATE tb_schedule
+SET resultT1='24', result='DRW', resultT2='24', gamePlayed=1
+WHERE roundID = 271
+
+-- Round 14
+UPDATE tb_schedule
+SET resultT1='0', result='BYE', resultT2='0', gamePlayed=0
+WHERE roundID = 269
+
+-- Round 13
+UPDATE tb_schedule
+SET resultT1='28', result='LST', resultT2='31', gamePlayed=1
+WHERE roundID = 267
+
+-- Round 12
+UPDATE tb_schedule
+SET resultT1='28', result='LST', resultT2='39', gamePlayed=1
+WHERE roundID = 265
+
+-- Round 11
+UPDATE tb_schedule
+SET resultT1='47', result='DEF', resultT2='39', gamePlayed=1
+WHERE roundID = 263
+
+-- Round 10
+UPDATE tb_schedule
+SET resultT1='52', result='DEF', resultT2='20', gamePlayed=1
+WHERE roundID = 261
+
+-- Round 9
+UPDATE tb_schedule
+SET resultT1='29', result='LST', resultT2='35', gamePlayed=1
+WHERE roundID = 259
+
+-- Round 8
+UPDATE tb_schedule
+SET resultT1='29', result='LST', resultT2='35', gamePlayed=1
+WHERE roundID = 257
+
+-- Round 7
+UPDATE tb_schedule
+SET resultT1='30', result='LST', resultT2='57', gamePlayed=1
+WHERE roundID = 255
+
+-- Round 6
+UPDATE tb_schedule
+SET resultT1='0', result='BYE', resultT2='0', gamePlayed=0
+WHERE roundID = 253
+
+-- Round 5
+UPDATE tb_schedule
+SET resultT1='0', result='BYE', resultT2='0', gamePlayed=0
+WHERE roundID = 251
+
+-- Round 4
+UPDATE tb_schedule
+SET resultT1='47', result='DEF', resultT2='55', gamePlayed=1
+WHERE roundID = 249
+
+-- Round 3
+UPDATE tb_schedule
+SET resultT1='38', result='DEF', resultT2='30', gamePlayed=1
+WHERE roundID = 247
+
+-- Round 2
+UPDATE tb_schedule
+SET resultT1='28', result='LST', resultT2='32', gamePlayed=1
+WHERE roundID = 245
+
+-- Round 1
+UPDATE tb_schedule
+SET resultT1='18', result='LST', resultT2='35', gamePlayed=1
+WHERE roundID = 243
+
+-- Grading 2
+UPDATE tb_schedule
+SET resultT1='40', result='LST', resultT2='58', gamePlayed=1
+WHERE roundID = 241
+
+-- Grading 1
+UPDATE tb_schedule
+SET resultT1='37', result='DRW', resultT2='37', gamePlayed=1
+WHERE roundID = 239
+
+
+
+
+
+===========================
+
+
+Summer Season 2013, SUNDAY
+
+===========================
+
+-- Round 8
+UPDATE tb_schedule
+SET resultT1='41', result='LST', resultT2='30', gamePlayed=1
+WHERE roundID = 252
+
+-- Round 7
+UPDATE tb_schedule
+SET resultT1='29', result='LST', resultT2='40', gamePlayed=1
+WHERE roundID = 250
+
+-- Round 6
+UPDATE tb_schedule
+SET resultT1='61', result='DEF', resultT2='36', gamePlayed=1
+WHERE roundID = 248
+
+-- Round 5
+UPDATE tb_schedule
+SET resultT1='0', result='BYE', resultT2='0', gamePlayed=0
+WHERE roundID = 246
+
+
+-- Round 4
+UPDATE tb_schedule
+SET resultT1='42', result='LST', resultT2='63', gamePlayed=1
+WHERE roundID = 244
+
+-- Round 3
+UPDATE tb_schedule
+SET resultT1='35', result='LST', resultT2='79', gamePlayed=1
+WHERE roundID = 242
+
+-- Round 2
+UPDATE tb_schedule
+SET resultT1='0', result='BYE', resultT2='10', gamePlayed=1
+WHERE roundID = 240
+
+-- Round 1
+UPDATE tb_schedule
+SET resultT1='0', result='LST', resultT2='10', gamePlayed=1
+WHERE roundID = 238
+
+-- Grading 2
+UPDATE tb_schedule
+SET resultT1='40', result='DEF', resultT2='26', gamePlayed=1
+WHERE roundID = 236
+
+-- Grading 1
+UPDATE tb_schedule
+SET resultT1='37', result='LST', resultT2='45', gamePlayed=1
+WHERE roundID = 234
+
+
+
+
+
+
+
+SELECT supplier.supplier_name
+FROM supplier INNER JOIN products ON supplier.supplier_ID =
+products.supplier_ID
+WHERE products.product_ID = 22;
+
+SELECT roundID, t.teamname, t.teamname,  date, time, venue, resultT1, result, resultT2 FROM tb_schedule s, tb_teams t WHERE t.tid = s.team1 or t.tid = s.team2 Group by roundID;
+
+INSERT INTO `tb_schedule` (`roundID`, `team1`, `team2`, `date`, `time`, `venue`, `resultT1`, `result`, `resultT2`) VALUES
+(2, '1', '5', '2008-10-16', '19:45:00', 'BHS', '', '', '');
+INSERT INTO `tb_schedule` (`roundID`, `team1`, `team2`, `date`, `time`, `venue`, `resultT1`, `result`, `resultT2`) VALUES
+(3, '1', '9', '2008-10-23', '19:00:00', 'BHS', '', '', '');
+INSERT INTO `tb_schedule` (`roundID`, `team1`, `team2`, `date`, `time`, `venue`, `resultT1`, `result`, `resultT2`) VALUES
+(4, '1', '2', '2008-10-30', '19:00:00', 'BHS', '', '', '');
+INSERT INTO `tb_schedule` (`roundID`, `team1`, `team2`, `date`, `time`, `venue`, `resultT1`, `result`, `resultT2`) VALUES
+(5, '1', '4', '2008-11-06', '21:15:00', 'BHS', '', '', '');
+INSERT INTO `tb_schedule` (`roundID`, `team1`, `team2`, `date`, `time`, `venue`, `resultT1`, `result`, `resultT2`) VALUES
+(6, '1', '8', '2008-11-13', '19:00:00', 'BHS', '', '', '');
+INSERT INTO `tb_schedule` (`roundID`, `team1`, `team2`, `date`, `time`, `venue`, `resultT1`, `result`, `resultT2`) VALUES
+(7, '1', '7', '2008-11-20', '20:30:00', 'BHS', '', '', '');
+INSERT INTO `tb_schedule` (`roundID`, `team1`, `team2`, `date`, `time`, `venue`, `resultT1`, `result`, `resultT2`) VALUES
+(8, '1', '6', '2008-11-27', '19:00:00', 'BHS', '', '', '');
+INSERT INTO `tb_schedule` (`roundID`, `team1`, `team2`, `date`, `time`, `venue`, `resultT1`, `result`, `resultT2`) VALUES
+(9, '1', '3', '2008-12-04', '19:00:00', 'BHS', '', '', '');
+INSERT INTO `tb_schedule` (`roundID`, `team1`, `team2`, `date`, `time`, `venue`, `resultT1`, `result`, `resultT2`) VALUES
+(10, '1', '1', '2008-12-11', '00:00:00', 'BHS', '0', 'BYE', '0');
+INSERT INTO `tb_schedule` (`roundID`, `team1`, `team2`, `date`, `time`, `venue`, `resultT1`, `result`, `resultT2`) VALUES
+(11, '1', '5', '2008-12-18', '19:45:00', 'BHS', '', '', '');
+INSERT INTO `tb_schedule` (`roundID`, `team1`, `team2`, `date`, `time`, `venue`, `resultT1`, `result`, `resultT2`) VALUES
+(12, '1', '9', '2009-01-30', '19:00:00', 'BHS', '', '', '');
+INSERT INTO `tb_schedule` (`roundID`, `team1`, `team2`, `date`, `time`, `venue`, `resultT1`, `result`, `resultT2`) VALUES
+(13, '1', '2', '2009-02-05', '19:00:00', 'BHS', '', '', '');
+INSERT INTO `tb_schedule` (`roundID`, `team1`, `team2`, `date`, `time`, `venue`, `resultT1`, `result`, `resultT2`) VALUES
+(14, '1', '4', '2009-02-12', '21:15:00', 'BHS', '', '', '');
+INSERT INTO `tb_schedule` (`roundID`, `team1`, `team2`, `date`, `time`, `venue`, `resultT1`, `result`, `resultT2`) VALUES
+(15, '1', '8', '2009-02-19', '19:00:00', 'BHS', '', '', '');
+INSERT INTO `tb_schedule` (`roundID`, `team1`, `team2`, `date`, `time`, `venue`, `resultT1`, `result`, `resultT2`) VALUES
+(16, '1', '7', '2009-02-26', '20:30:00', 'BHS', '', '', '');
+INSERT INTO `tb_schedule` (`roundID`, `team1`, `team2`, `date`, `time`, `venue`, `resultT1`, `result`, `resultT2`) VALUES
+(17, '1', '6', '2009-03-05', '19:00:00', 'BHS', '', '', '');
+INSERT INTO `tb_schedule` (`roundID`, `team1`, `team2`, `date`, `time`, `venue`, `resultT1`, `result`, `resultT2`) VALUES
+(18, '1', '3', '2009-03-11', '19:00:00', 'BHS', '', '', '');
+
+-- Round 2
+UPDATE tb_schedule
+SET resultT1=26, result='DEF', resultT2='25'
+WHERE roundID = 2;
+
+-- Round 3
+UPDATE tb_schedule
+SET resultT1=28, result='LST', resultT2='44'
+WHERE roundID = 3;
+
+-- Round 4
+UPDATE tb_schedule
+SET resultT1=30, result='DEF', resultT2='23'
+WHERE roundID = 4;
+
+-- Round 6
+UPDATE tb_schedule
+SET resultT1=22, result='DEF', resultT2='19'
+WHERE roundID = 6;
+
+-- Round 7
+UPDATE tb_schedule
+SET resultT1=39, result='DEF', resultT2='23'
+WHERE roundID = 7;
+
+-- Round 8
+UPDATE tb_schedule
+SET resultT1=35, result='DEF', resultT2='32'
+WHERE roundID = 8;
+
+-- Round 10
+UPDATE tb_schedule
+SET resultT1=0, result='BYE', resultT2='0'
+WHERE roundID = 10;
+
+-- Round 11
+UPDATE tb_schedule
+SET resultT1=38, result='LST', resultT2='42'
+WHERE roundID = 11;
+
+-- Round 12
+UPDATE tb_schedule
+SET resultT1=0, result='BYE', resultT2='0'
+WHERE roundID = 12;
+
+-- Round 13
+UPDATE tb_schedule
+SET resultT1=33, result='DEF', resultT2='22'
+WHERE roundID = 13;
+
+-- Round 14
+UPDATE tb_schedule
+SET resultT1=41, result='DEF', resultT2='17'
+WHERE roundID = 14;
+
+-- Round 15
+UPDATE tb_schedule
+SET resultT1=32, result='DEF', resultT2='15'
+WHERE roundID = 15;
+
+-- Round 16
+UPDATE tb_schedule
+SET resultT1=32, result='DEF', resultT2='26'
+WHERE roundID = 16;
+
+-- Round 17
+UPDATE tb_schedule
+SET resultT1=20, result='LST', resultT2='24'
+WHERE roundID = 17;
+
+
+
+
+
+-- Round 19 (Finals)
+INSERT INTO `tb_schedule` (`roundID`, `roundName`, `team1`, `team2`, `date`, `time`, `venue`, `seasonID`, `final`, `resultT1`, `result`, `resultT2`) VALUES
+(19, 'Quarter Final', '1', '6', '2009-03-19', '21:15:00', 'BHS', '09w', 'Y', '', '', '');
+
+
+-- Round 19
+UPDATE tb_schedule
+SET resultT1=17, result='LST', resultT2='34'
+WHERE roundID = 19;
+
+
+
+
+
+
+
+update tb_schedule
+Set roundName = 'Round 1'
+Where roundID = '1';
+
+update tb_schedule
+Set roundName = 'Round 2'
+Where roundID = '2';
+
+update tb_schedule
+Set roundName = 'Round 3'
+Where roundID = '3';
+
+update tb_schedule
+Set roundName = 'Round 4'
+Where roundID = '4';
+
+update tb_schedule
+Set roundName = 'Round 5'
+Where roundID = '5';
+
+update tb_schedule
+Set roundName = 'Round 6'
+Where roundID = '6';
+
+update tb_schedule
+Set roundName = 'Round 7'
+Where roundID = '7';
+
+update tb_schedule
+Set roundName = 'Round 8'
+Where roundID = '8';
+
+update tb_schedule
+Set roundName = 'Round 9'
+Where roundID = '9';
+
+update tb_schedule
+Set roundName = 'Round 10'
+Where roundID = '10';
+
+update tb_schedule
+Set roundName = 'Round 11'
+Where roundID = '11';
+
+update tb_schedule
+Set roundName = 'Round 12'
+Where roundID = '12';
+
+update tb_schedule
+Set roundName = 'Round 13'
+Where roundID = '13';
+
+update tb_schedule
+Set roundName = 'Round 14'
+Where roundID = '14';
+
+update tb_schedule
+Set roundName = 'Round 15'
+Where roundID = '15';
+
+update tb_schedule
+Set roundName = 'Round 16'
+Where roundID = '16';
+
+update tb_schedule
+Set roundName = 'Round 17'
+Where roundID = '17';
+
+update tb_schedule
+Set roundName = 'Round 18'
+Where roundID = '18';
+
+update tb_schedule
+Set roundName = 'Quarter Finals'
+Where roundID = '19';
+
+update tb_schedule set gamePlayed = 1
+where roundID in (1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,18,19)
+
+
+
+
+
+
+===========
+Seaon 09w
+===========
+
+-- Round 1
+UPDATE tb_schedule
+SET resultT1='28', result='LST', resultT2='44', gamePlayed=1
+WHERE roundID = 20;
+
+-- Round 2
+UPDATE tb_schedule
+SET resultT1='0', result='BYE', resultT2='0', gamePlayed=0
+WHERE roundID = 21;
+
+-- Round 3
+UPDATE tb_schedule
+SET resultT1='31', result='DEF', resultT2='18', gamePlayed=1
+WHERE roundID = 22;
+
+-- Round 4
+UPDATE tb_schedule
+SET resultT1='23', result='DEF', resultT2='21', gamePlayed=1
+WHERE roundID = 23;
+
+-- Round 5
+UPDATE tb_schedule
+SET resultT1='34', result='DEF', resultT2='30', gamePlayed=1
+WHERE roundID = 24;
+
+-- Round 6
+UPDATE tb_schedule
+SET resultT1='33', result='DEF', resultT2='22', gamePlayed=1
+WHERE roundID = 25;
+
+-- Round 7
+UPDATE tb_schedule
+SET resultT1='37', result='DEF', resultT2='27', gamePlayed=1
+WHERE roundID = 26;
+
+
+-- Round 8
+UPDATE tb_schedule
+SET resultT1='23', result='LST', resultT2='25', gamePlayed=1
+WHERE roundID = 27;
+
+-- Round 9
+UPDATE tb_schedule
+SET resultT1='21', result='LST', resultT2='35', gamePlayed=1
+WHERE roundID = 28;
+
+-- Round 11
+UPDATE tb_schedule
+SET resultT1='0', result='BYE', resultT2='0', gamePlayed=0
+WHERE roundID = 29;
+
+-- Round 12
+UPDATE tb_schedule
+SET resultT1='45', result='DEF', resultT2='40', gamePlayed=1
+WHERE roundID = 30;
+
+-- Round 13
+UPDATE tb_schedule
+SET resultT1='37', result='LST', resultT2='39', gamePlayed=1
+WHERE roundID = 31;
+
+-- Round 14
+UPDATE tb_schedule
+SET resultT1='52', result='DEF', resultT2='16', gamePlayed=1
+WHERE roundID = 32;
+
+-- Round 15
+UPDATE tb_schedule
+SET resultT1='32', result='DEF', resultT2='25', gamePlayed=1
+WHERE roundID = 33;
+
+-- Round 16
+UPDATE tb_schedule
+SET resultT1='45', result='DEF', resultT2='26', gamePlayed=1
+WHERE roundID = 34;
+
+-- Round 17
+UPDATE tb_schedule
+SET resultT1='57', result='DEF', resultT2='27', gamePlayed=1
+WHERE roundID = 35;
+
+-- Q. Finals
+UPDATE tb_schedule
+SET resultT1='27', result='LST', resultT2='41', gamePlayed=1
+WHERE roundID = 36;
+
+-- S. Finals
+UPDATE tb_schedule
+SET resultT1='24', result='LST', resultT2='26', gamePlayed=1
+WHERE roundID = 37;
+
+
+
+
+========================
+
+Summer Season 2010 
+
+========================
+
+-- Round 1
+UPDATE tb_schedule
+SET resultT1='38', result='DEF', resultT2='30', gamePlayed=1
+WHERE roundID = 38;
+
+
+-- Round 2
+UPDATE tb_schedule
+SET resultT1='24', result='LOST', resultT2='27', gamePlayed=1
+WHERE roundID = 39;
+
+-- Round 3
+UPDATE tb_schedule
+SET resultT1='35', result='DEF', resultT2='31', gamePlayed=1
+WHERE roundID = 40;
+
+-- Round 4
+UPDATE tb_schedule
+SET resultT1='24', result='LST', resultT2='33', gamePlayed=1
+WHERE roundID = 41;
+
+-- Round 5
+UPDATE tb_schedule
+SET resultT1='43', result='DEF', resultT2='23', gamePlayed=1
+WHERE roundID = 42;
+
+-- Round 6
+UPDATE tb_schedule
+SET resultT1='35', result='LST', resultT2='58', gamePlayed=1
+WHERE roundID = 43;
+
+-- Round 7
+UPDATE tb_schedule
+SET resultT1='32', result='DEF', resultT2='29', gamePlayed=1
+WHERE roundID = 44;
+
+-- Round 8
+UPDATE tb_schedule
+SET resultT1='35', result='DEF', resultT2='25', gamePlayed=1
+WHERE roundID = 45;
+
+-- Round 9
+UPDATE tb_schedule
+SET resultT1='30', result='LST', resultT2='47', gamePlayed=1
+WHERE roundID = 46;
+
+-- Round 10
+UPDATE tb_schedule
+SET resultT1='18', result='LST', resultT2='24', gamePlayed=1
+WHERE roundID = 47;
+
+-- Round 11
+UPDATE tb_schedule
+SET resultT1='69', result='LST', resultT2='28', gamePlayed=1
+WHERE roundID = 48
+
+-- Round 12
+UPDATE tb_schedule
+SET resultT1='39', result='DEF', resultT2='31', gamePlayed=1
+WHERE roundID = 49
+
+-- Round 13
+UPDATE tb_schedule
+SET resultT1='34', result='LST', resultT2='23', gamePlayed=1
+WHERE roundID = 50
+
+-- Round 14
+UPDATE tb_schedule
+SET resultT1='31', result='LST', resultT2='37', gamePlayed=1
+WHERE roundID = 51
+
+-- Round 15
+UPDATE tb_schedule
+SET resultT1='29', result='LST', resultT2='34', gamePlayed=1
+WHERE roundID = 52
+
+-- Round 16
+UPDATE tb_schedule
+SET resultT1='18', result='LST', resultT2='22', gamePlayed=1
+WHERE roundID = 53
+
+-- Q.Final
+UPDATE tb_schedule
+SET resultT1='37', result='DEF', resultT2='32', gamePlayed=1
+WHERE roundID = 54
+
+-- s.Final
+UPDATE tb_schedule
+SET resultT1='38', result='DEF', resultT2='34', gamePlayed=1
+WHERE roundID = 55
+
+
+-- G.Final
+UPDATE tb_schedule
+SET resultT1='23', result='LST', resultT2='36', gamePlayed=1
+WHERE roundID = 56
+
+
+
+===========================
+
+Winter Season 2010, THURS 
+
+===========================
+
+-- Round 1
+UPDATE tb_schedule
+SET resultT1='32', result='LST', resultT2='35', gamePlayed=1
+WHERE roundID = 59
+
+-- Round 2
+UPDATE tb_schedule
+SET resultT1='30', result='LST', resultT2='38', gamePlayed=1
+WHERE roundID = 60
+
+-- Round 3
+UPDATE tb_schedule
+SET resultT1='25', result='LST', resultT2='30', gamePlayed=1
+WHERE roundID = 61
+
+-- Round 4
+UPDATE tb_schedule
+SET resultT1='32', result='DEF', resultT2='30', gamePlayed=1
+WHERE roundID = 63
+
+-- Round 5
+UPDATE tb_schedule
+SET resultT1='39', result='LST', resultT2='38', gamePlayed=1
+WHERE roundID = 65
+
+-- Round 6
+UPDATE tb_schedule
+SET resultT1='9', result='LST', resultT2='28', gamePlayed=1
+WHERE roundID = 67
+
+-- Round 7
+UPDATE tb_schedule
+SET resultT1='30', result='LST', resultT2='49', gamePlayed=1
+WHERE roundID = 69
+
+-- Round 8
+UPDATE tb_schedule
+SET resultT1='21', result='LST', resultT2='23', gamePlayed=1
+WHERE roundID = 71
+
+-- Round 9
+UPDATE tb_schedule
+SET resultT1='22', result='LST', resultT2='42', gamePlayed=1
+WHERE roundID = 73
+
+-- Round 10
+UPDATE tb_schedule
+SET resultT1='22', result='LST', resultT2='66', gamePlayed=1
+WHERE roundID = 75
+
+-- Round 11
+UPDATE tb_schedule
+SET resultT1='34', result='LST', resultT2='49', gamePlayed=1
+WHERE roundID = 77
+
+-- Round 12
+UPDATE tb_schedule
+SET resultT1='29', result='LST', resultT2='26', gamePlayed=1
+WHERE roundID = 79
+
+-- Round 13
+UPDATE tb_schedule
+SET resultT1='19', result='LST', resultT2='85', gamePlayed=1
+WHERE roundID = 81
+
+-- Round 14
+UPDATE tb_schedule
+SET resultT1='21', result='LST', resultT2='26', gamePlayed=1
+WHERE roundID = 83
+
+-- Round 15
+UPDATE tb_schedule
+SET resultT1='45', result='LST', resultT2='37', gamePlayed=1
+WHERE roundID = 85
+
+-- Round 16
+UPDATE tb_schedule
+SET resultT1='49', result='LST', resultT2='29', gamePlayed=1
+WHERE roundID = 87
+
+
+===========================
+
+Winter Season 2010, SUNDAY
+
+===========================
+
+-- Round 1
+UPDATE tb_schedule
+SET resultT1='75', result='DEF', resultT2='2', gamePlayed=1
+WHERE roundID = 57
+
+-- Round 2
+UPDATE tb_schedule
+SET resultT1='32', result='DEF', resultT2='14', gamePlayed=1
+WHERE roundID = 58
+
+-- Round 3
+UPDATE tb_schedule
+SET resultT1='49', result='LST', resultT2='54', gamePlayed=1
+WHERE roundID = 62
+
+-- Round 4
+UPDATE tb_schedule
+SET resultT1='37', result='LST', resultT2='41', gamePlayed=1
+WHERE roundID = 64
+
+-- Round 5
+UPDATE tb_schedule
+SET resultT1='35', result='DEF', resultT2='30', gamePlayed=1
+WHERE roundID = 66
+
+-- Round 6
+UPDATE tb_schedule
+SET resultT1='45', result='LST', resultT2='62', gamePlayed=1
+WHERE roundID = 68
+
+-- Round 7
+UPDATE tb_schedule
+SET resultT1='52', result='LST', resultT2='25', gamePlayed=1
+WHERE roundID = 70
+
+-- Round 8
+UPDATE tb_schedule
+SET resultT1='0', result='BYE', resultT2='0', gamePlayed=1
+WHERE roundID = 72
+
+-- Round 9
+UPDATE tb_schedule
+SET resultT1='64', result='DEF', resultT2='9', gamePlayed=1
+WHERE roundID = 74
+
+-- Round 10
+UPDATE tb_schedule
+SET resultT1='22', result='LST', resultT2='46', gamePlayed=1
+WHERE roundID = 76
+
+-- Round 11
+UPDATE tb_schedule
+SET resultT1='40', result='LST', resultT2='50', gamePlayed=1
+WHERE roundID = 78
+
+-- Round 12
+UPDATE tb_schedule
+SET resultT1='33', result='DRW', resultT2='33', gamePlayed=1
+WHERE roundID = 80
+
+-- Round 13
+UPDATE tb_schedule
+SET resultT1='45', result='LST', resultT2='60', gamePlayed=1
+WHERE roundID = 82
+
+-- Round 14
+UPDATE tb_schedule
+SET resultT1='31', result='LST', resultT2='38', gamePlayed=1
+WHERE roundID = 84
+
+
+
+===========================
+
+Summer Season 2011, THURS
+
+===========================
+
+-- Round 1
+UPDATE tb_schedule
+SET resultT1='33', result='LST', resultT2='43', gamePlayed=1
+WHERE roundID = 88
+
+-- Round 2
+UPDATE tb_schedule
+SET resultT1='28', result='DEF', resultT2='24', gamePlayed=1
+WHERE roundID = 90
+
+-- Round 3
+UPDATE tb_schedule
+SET resultT1='31', result='LST', resultT2='39', gamePlayed=1
+WHERE roundID = 92
+
+-- Round 4
+UPDATE tb_schedule
+SET resultT1='18', result='LST', resultT2='44', gamePlayed=1
+WHERE roundID = 94
+
+-- Round 5
+UPDATE tb_schedule
+SET resultT1='27', result='LST', resultT2='63', gamePlayed=1
+WHERE roundID = 96
+
+-- Round 6
+UPDATE tb_schedule
+SET resultT1='49', result='LST', resultT2='65', gamePlayed=1
+WHERE roundID = 98
+
+-- Round 7
+UPDATE tb_schedule
+SET resultT1='32', result='LST', resultT2='46', gamePlayed=1
+WHERE roundID = 100
+
+-- Round 8
+UPDATE tb_schedule
+SET resultT1='44', result='DEF', resultT2='42', gamePlayed=1
+WHERE roundID = 102
+
+-- Round 9
+UPDATE tb_schedule
+SET resultT1='38', result='LST', resultT2='45', gamePlayed=1
+WHERE roundID = 104
+
+-- Round 10
+UPDATE tb_schedule
+SET resultT1='27', result='LST', resultT2='31', gamePlayed=1
+WHERE roundID = 106
+
+-- Round 11
+UPDATE tb_schedule
+SET resultT1='26', result='LST', resultT2='62', gamePlayed=1
+WHERE roundID = 108
+
+-- Round 12
+UPDATE tb_schedule
+SET resultT1='35', result='LST', resultT2='50', gamePlayed=1
+WHERE roundID = 110
+
+-- Round 13
+UPDATE tb_schedule
+SET resultT1='40', result='LST', resultT2='44', gamePlayed=1
+WHERE roundID = 112
+
+-- Round 14
+UPDATE tb_schedule
+SET resultT1='27', result='LST', resultT2='32', gamePlayed=1
+WHERE roundID = 114
+
+-- Round 15
+UPDATE tb_schedule
+SET resultT1='48', result='LST', resultT2='57', gamePlayed=1
+WHERE roundID = 116
+
+-- Q.FInals
+UPDATE tb_schedule
+SET resultT1='14', result='DEF', resultT2='12', gamePlayed=1
+WHERE roundID = 118
+
+-- S.FInals
+UPDATE tb_schedule
+SET resultT1='44', result='DEF', resultT2='36', gamePlayed=1
+WHERE roundID = 120
+
+-- G.FInal
+UPDATE tb_schedule
+SET resultT1='41', result='DEF', resultT2='21', gamePlayed=1
+WHERE roundID = 122
+
+
+===========================
+
+Summer Season 2011, SUNDAY
+
+===========================
+
+-- Round 1
+UPDATE tb_schedule
+SET resultT1='33', result='LST', resultT2='40', gamePlayed=1
+WHERE roundID = 89
+
+-- Round 2
+UPDATE tb_schedule
+SET resultT1='0', result='BYE', resultT2='0', gamePlayed=0
+WHERE roundID = 91
+
+-- Round 3
+UPDATE tb_schedule
+SET resultT1='35', result='LST', resultT2='52', gamePlayed=1
+WHERE roundID = 93
+
+-- Round 4
+UPDATE tb_schedule
+SET resultT1='35', result='LST', resultT2='47', gamePlayed=1
+WHERE roundID = 95
+
+-- Round 5
+UPDATE tb_schedule
+SET resultT1='38', result='LST', resultT2='63', gamePlayed=1
+WHERE roundID = 97
+
+-- Round 6
+UPDATE tb_schedule
+SET resultT1='52', result='DEF', resultT2='24', gamePlayed=1
+WHERE roundID = 99
+
+-- Round 7
+UPDATE tb_schedule
+SET resultT1='31', result='LST', resultT2='62', gamePlayed=1
+WHERE roundID = 101
+
+-- Round 8
+UPDATE tb_schedule
+SET resultT1='48', result='LST', resultT2='52', gamePlayed=1
+WHERE roundID = 103
+
+-- Round 9
+UPDATE tb_schedule
+SET resultT1='26', result='LST', resultT2='37', gamePlayed=1
+WHERE roundID = 105
+
+-- Round 10
+UPDATE tb_schedule
+SET resultT1='51', result='LST', resultT2='58', gamePlayed=1
+WHERE roundID = 107
+
+-- Round 11
+UPDATE tb_schedule
+SET resultT1='38', result='DEF', resultT2='24', gamePlayed=1
+WHERE roundID = 109
+
+-- Round 12
+UPDATE tb_schedule
+SET resultT1='35', result='LST', resultT2='21', gamePlayed=1
+WHERE roundID = 111
+
+-- Round 13
+UPDATE tb_schedule
+SET resultT1='42', result='LST', resultT2='56', gamePlayed=1
+WHERE roundID = 113
+
+-- Round 14
+UPDATE tb_schedule
+SET resultT1='44', result='DEF', resultT2='37', gamePlayed=1
+WHERE roundID = 115
+
+-- Q.Final
+UPDATE tb_schedule
+SET resultT1='38', result='DEF', resultT2='21', gamePlayed=1
+WHERE roundID = 117
+
+-- S.Final
+UPDATE tb_schedule
+SET resultT1='43', result='DEF', resultT2='12', gamePlayed=1
+WHERE roundID = 119
+
+-- g.Final
+UPDATE tb_schedule
+SET resultT1='37', result='DEF', resultT2='18', gamePlayed=1
+WHERE roundID = 121
+
+
+
+
+===========================
+
+Winter Season 2011, THURSDAY
+
+===========================
+
+
+-- Round 1
+UPDATE tb_schedule
+SET resultT1='46', result='DEF', resultT2='31', gamePlayed=1
+WHERE roundID = 123
+
+-- Round 2
+UPDATE tb_schedule
+SET resultT1='38', result='DEF', resultT2='26', gamePlayed=1
+WHERE roundID = 125
+
+-- Round 3
+UPDATE tb_schedule
+SET resultT1='34', result='LST', resultT2='37', gamePlayed=1
+WHERE roundID = 127
+
+-- Round 4
+UPDATE tb_schedule
+SET resultT1='34', result='DEF', resultT2='22', gamePlayed=1
+WHERE roundID = 129
+
+-- Round 5
+UPDATE tb_schedule
+SET resultT1='34, result='DEF', resultT2='30', gamePlayed=1
+WHERE roundID = 131
+
+-- Round 6
+UPDATE tb_schedule
+SET resultT1='36', result='DEF', resultT2='25', gamePlayed=1
+WHERE roundID = 133
+
+-- Round 7
+UPDATE tb_schedule
+SET resultT1='34', result='LST', resultT2='44', gamePlayed=1
+WHERE roundID = 135
+
+-- Round 8
+UPDATE tb_schedule
+SET resultT1='32', result='DEF', resultT2='28', gamePlayed=1
+WHERE roundID = 137
+
+-- Round 9
+UPDATE tb_schedule
+SET resultT1='39', result='DEF', resultT2='27', gamePlayed=1
+WHERE roundID = 139
+
+-- Round 10
+UPDATE tb_schedule
+SET resultT1='55', result='LST', resultT2='37', gamePlayed=1
+WHERE roundID = 141
+
+-- Round 11
+UPDATE tb_schedule
+SET resultT1='37', result='DEF', resultT2='25', gamePlayed=1
+WHERE roundID = 143
+
+-- Round 12
+UPDATE tb_schedule
+SET resultT1='28', result='DEF', resultT2='21', gamePlayed=1
+WHERE roundID = 145
+
+-- Round 13
+UPDATE tb_schedule
+SET resultT1='45', result='DEF', resultT2='27', gamePlayed=1
+WHERE roundID = 147
+
+-- Round 14
+UPDATE tb_schedule
+SET resultT1='45', result='DEF', resultT2='27', gamePlayed=1
+WHERE roundID = 149
+
+-- Round 15
+UPDATE tb_schedule
+SET resultT1='36', result='DEF', resultT2='11', gamePlayed=1
+WHERE roundID = 151
+
+-- Round 16
+UPDATE tb_schedule
+SET resultT1='36', result='LST', resultT2='40', gamePlayed=1
+WHERE roundID = 153
+
+-- Round 17
+UPDATE tb_schedule
+SET resultT1='28', result='LST', resultT2='29', gamePlayed=1
+WHERE roundID = 155
+
+-- q.final
+UPDATE tb_schedule
+SET resultT1='36', result='DEF', resultT2='26', gamePlayed=1
+WHERE roundID = 157
+
+-- G.final
+UPDATE tb_schedule
+SET resultT1='41', result='LST', resultT2='43', gamePlayed=1
+WHERE roundID = 159
+
+
+===========================
+
+Winter Season 2011, SUNDAY
+
+===========================
+
+-- Round 1
+UPDATE tb_schedule
+SET resultT1='31', result='LST', resultT2='37', gamePlayed=1
+WHERE roundID = 124
+
+-- Round 2
+UPDATE tb_schedule
+SET resultT1='50', result='DEF', resultT2='20', gamePlayed=1
+WHERE roundID = 126
+
+-- Round 3
+UPDATE tb_schedule
+SET resultT1='27', result='DEF', resultT2='21', gamePlayed=1
+WHERE roundID = 128
+
+-- Round 4
+UPDATE tb_schedule
+SET resultT1='40', result='LST', resultT2='54', gamePlayed=1
+WHERE roundID = 130
+
+-- Round 5
+UPDATE tb_schedule
+SET resultT1='39', result='DEF', resultT2='27', gamePlayed=1
+WHERE roundID = 132
+
+-- Round 6
+UPDATE tb_schedule
+SET resultT1='0', result='BYE', resultT2='0', gamePlayed=0
+WHERE roundID = 134
+
+-- Round 7
+UPDATE tb_schedule
+SET resultT1='0', result='BYE', resultT2='0', gamePlayed=0
+WHERE roundID = 136
+
+-- Round 8
+UPDATE tb_schedule
+SET resultT1='35', result='LST', resultT2='48', gamePlayed=1
+WHERE roundID = 138
+
+-- Round 9
+UPDATE tb_schedule
+SET resultT1='36', result='DEF', resultT2='20', gamePlayed=1
+WHERE roundID = 140
+
+-- Round 10
+UPDATE tb_schedule
+SET resultT1='47', result='DEF', resultT2='35', gamePlayed=1
+WHERE roundID = 142
+
+-- Round 11
+UPDATE tb_schedule
+SET resultT1='42', result='LST', resultT2='50', gamePlayed=1
+WHERE roundID = 144
+
+-- Round 12
+UPDATE tb_schedule
+SET resultT1='44', result='DEF', resultT2='27', gamePlayed=1
+WHERE roundID = 146
+
+-- Round 13
+UPDATE tb_schedule
+SET resultT1='50', result='DEF', resultT2='26', gamePlayed=1
+WHERE roundID = 148
+
+-- Round 14
+UPDATE tb_schedule
+SET resultT1='43', result='DEF', resultT2='27', gamePlayed=1
+WHERE roundID = 150
+
+-- Round 15
+UPDATE tb_schedule
+SET resultT1='35', result='LST', resultT2='40', gamePlayed=1
+WHERE roundID = 152
+
+-- ROUND 16
+UPDATE tb_schedule
+SET resultT1='48', result='LST', resultT2='50', gamePlayed=1
+WHERE roundID = 154
+
+-- Q.Final
+UPDATE tb_schedule
+SET resultT1='29', result='DEF', resultT2='22', gamePlayed=1
+WHERE roundID = 156
+
+-- S.Final
+UPDATE tb_schedule
+SET resultT1='44', result='DEF', resultT2='40', gamePlayed=1
+WHERE roundID = 158
+
+-- G.Final
+UPDATE tb_schedule
+SET resultT1='32', result='LST', resultT2='60', gamePlayed=1
+WHERE roundID = 160
+
+
+
+
+
+===========================
+
+Summer Season 2012, THURSDAY
+
+===========================
+
+
+-- Grading 1
+UPDATE tb_schedule
+SET resultT1='31', result='LST', resultT2='24', gamePlayed=1
+WHERE roundID = 161
+
+
+-- Grading 2
+UPDATE tb_schedule
+SET resultT1='30', result='DEF', resultT2='24', gamePlayed=1
+WHERE roundID = 163
+
+
+-- Round 1
+UPDATE tb_schedule
+SET resultT1='23', result='DEF', resultT2='14', gamePlayed=1
+WHERE roundID = 165
+
+-- Round 2
+UPDATE tb_schedule
+SET resultT1='35', result='DEF', resultT2='20', gamePlayed=1
+WHERE roundID = 167
+
+-- Round 3
+UPDATE tb_schedule
+SET resultT1='0', result='BYE', resultT2='0', gamePlayed=0
+WHERE roundID = 169
+
+
+-- Round 4
+UPDATE tb_schedule
+SET resultT1='38', result='LST', resultT2='50', gamePlayed=1
+WHERE roundID = 171
+
+-- Round 5
+UPDATE tb_schedule
+SET resultT1='21', result='DEF', resultT2='19', gamePlayed=1
+WHERE roundID = 173
+
+-- Round 6
+UPDATE tb_schedule
+SET resultT1='35', result='LST', resultT2='37', gamePlayed=1
+WHERE roundID = 175
+
+-- Round 7
+UPDATE tb_schedule
+SET resultT1='41', result='LST', resultT2='45', gamePlayed=1
+WHERE roundID = 177
+
+-- Round 8
+UPDATE tb_schedule
+SET resultT1='37', result='DEF', resultT2='26', gamePlayed=1
+WHERE roundID = 179
+
+- Round 9
+UPDATE tb_schedule
+SET resultT1='40', result='DEF', resultT2='15', gamePlayed=1
+WHERE roundID = 181
+
+- Round 10
+UPDATE tb_schedule
+SET resultT1='0', result='BYE', resultT2='0', gamePlayed=0
+WHERE roundID = 183
+
+-- Round 11
+UPDATE tb_schedule
+SET resultT1='46', result='DEF', resultT2='30', gamePlayed=1
+WHERE roundID = 185
+
+-- Round 12
+UPDATE tb_schedule
+SET resultT1='34', result='LST', resultT2='42', gamePlayed=1
+WHERE roundID = 187
+
+-- Round 13
+UPDATE tb_schedule
+SET resultT1='38', result='DEF', resultT2='26', gamePlayed=1
+WHERE roundID = 189
+
+-- Round 14
+UPDATE tb_schedule
+SET resultT1='46', result='DEF', resultT2='29', gamePlayed=1
+WHERE roundID = 191
+
+-- Semi Final
+UPDATE tb_schedule
+SET resultT1='34', result='LST', resultT2='52', gamePlayed=1
+WHERE roundID = 193
+
+-- Prelim Final
+UPDATE tb_schedule
+SET resultT1='47', result='DEF', resultT2='43', gamePlayed=1
+WHERE roundID = 195
+
+
+-- Grand Final
+UPDATE tb_schedule
+SET resultT1='44', result='LST', resultT2='47', gamePlayed=1
+WHERE roundID = 197
+
+
+===========================
+
+
+Summer Season 2012, SUNDAY
+
+===========================
+
+
+-- Grading 1
+UPDATE tb_schedule
+SET resultT1='41', result='DEF', resultT2='36', gamePlayed=1
+WHERE roundID = 162
+
+-- Grading 2
+UPDATE tb_schedule
+SET resultT1='49', result='DEF', resultT2='45', gamePlayed=1
+WHERE roundID = 164
+
+-- Round 1
+UPDATE tb_schedule
+SET resultT1='0', result='BYE', resultT2='0', gamePlayed=0
+WHERE roundID = 166
+
+-- Round 2
+UPDATE tb_schedule
+SET resultT1='45', result='DRW', resultT2='45', gamePlayed=1
+WHERE roundID = 168
+
+-- Round 3
+UPDATE tb_schedule
+SET resultT1='40', result='DEF', resultT2='38', gamePlayed=1
+WHERE roundID = 170
+
+-- Round 4
+UPDATE tb_schedule
+SET resultT1='36', result='DRW', resultT2='36', gamePlayed=1
+WHERE roundID = 172
+
+-- Round 5
+UPDATE tb_schedule
+SET resultT1='33', result='LST', resultT2='54', gamePlayed=1
+WHERE roundID = 174
+
+-- Round 6
+UPDATE tb_schedule
+SET resultT1='54', result='LST', resultT2='64', gamePlayed=1
+WHERE roundID = 176
+
+-- Round 7
+UPDATE tb_schedule
+SET resultT1='53', result='DEF', resultT2='44', gamePlayed=1
+WHERE roundID = 178
+
+-- Round 8
+UPDATE tb_schedule
+SET resultT1='0', result='BYE', resultT2='0', gamePlayed=0
+WHERE roundID = 180
+
+-- Round 9
+UPDATE tb_schedule
+SET resultT1='37', result='DRW', resultT2='37', gamePlayed=1
+WHERE roundID = 182
+
+-- Round 10
+UPDATE tb_schedule
+SET resultT1='38', result='LST', resultT2='58', gamePlayed=1
+WHERE roundID = 184
+
+-- Round 11
+UPDATE tb_schedule
+SET resultT1='37', result='LST', resultT2='43', gamePlayed=1
+WHERE roundID = 186
+
+-- Round 12
+UPDATE tb_schedule
+SET resultT1='47', result='DEF', resultT2='45', gamePlayed=1
+WHERE roundID = 188
+
+-- Round 13
+UPDATE tb_schedule
+SET resultT1='46', result='DEF', resultT2='34', gamePlayed=1
+WHERE roundID = 190
+
+-- Round 14
+UPDATE tb_schedule
+SET resultT1='0', result='BYE', resultT2='0', gamePlayed=0
+WHERE roundID = 192
+
+-- SEMI Final
+UPDATE tb_schedule
+SET resultT1='38', result='DEF', resultT2='20', gamePlayed=1
+WHERE roundID = 194
+
+-- GRAND Final
+UPDATE tb_schedule
+SET resultT1='38', result='LST', resultT2='40', gamePlayed=1
+WHERE roundID = 196
+
+
+
+
+===========================
+
+
+Winter Season 2012, THURSDAY
+
+===========================
+
+-- Grading 1
+UPDATE tb_schedule
+SET resultT1='37', result='DRW', resultT2='37', gamePlayed=1
+WHERE roundID = 199
+
+-- Grading 2
+UPDATE tb_schedule
+SET resultT1='37', result='DEF', resultT2='29', gamePlayed=1
+WHERE roundID = 201
+
+
+-- Round 1
+UPDATE tb_schedule
+SET resultT1='35', result='DEF', resultT2='18', gamePlayed=1
+WHERE roundID = 203
+
+-- Round 2
+UPDATE tb_schedule
+SET resultT1='44', result='DEF', resultT2='38', gamePlayed=1
+WHERE roundID = 205
+
+-- Round 3
+UPDATE tb_schedule
+SET resultT1='23', result='LST', resultT2='44', gamePlayed=1
+WHERE roundID = 207
+
+-- Round 4
+UPDATE tb_schedule
+SET resultT1='38', result='DEF', resultT2='29', gamePlayed=1
+WHERE roundID = 209
+
+-- Round 5
+UPDATE tb_schedule
+SET resultT1='22', result='LST', resultT2='34', gamePlayed=1
+WHERE roundID = 211
+
+-- Round 6
+UPDATE tb_schedule
+SET resultT1='39', result='LST', resultT2='43', gamePlayed=1
+WHERE roundID = 213
+
+-- Round 7
+UPDATE tb_schedule
+SET resultT1='32', result='LST', resultT2='38', gamePlayed=1
+WHERE roundID = 215
+
+-- Round 8
+UPDATE tb_schedule
+SET resultT1='34', result='DRW', resultT2='34', gamePlayed=1
+WHERE roundID = 217
+
+-- Round 9
+UPDATE tb_schedule
+SET resultT1='0', result='BYE', resultT2='0', gamePlayed=0
+WHERE roundID = 219
+
+-- Round 10
+UPDATE tb_schedule
+SET resultT1='29', result='LST', resultT2='60', gamePlayed=1
+WHERE roundID = 221
+
+-- Round 11
+UPDATE tb_schedule
+SET resultT1='18', result='LST', resultT2='42', gamePlayed=1
+WHERE roundID = 223
+
+-- Round 12
+UPDATE tb_schedule
+SET resultT1='0', result='BYE', resultT2='0', gamePlayed=0
+WHERE roundID = 225
+
+-- Round 13
+UPDATE tb_schedule
+SET resultT1='30', result='LST', resultT2='40', gamePlayed=1
+WHERE roundID = 227
+
+-- Round 14
+UPDATE tb_schedule
+SET resultT1='32', result='DEF', resultT2='29', gamePlayed=1
+WHERE roundID = 229
+
+-- Round 15
+UPDATE tb_schedule
+SET resultT1='0', result='LST', resultT2='10', gamePlayed=1
+WHERE roundID = 231
+
+-- Round 16
+UPDATE tb_schedule
+SET resultT1='40', result='DEF', resultT2='27', gamePlayed=1
+WHERE roundID = 233
+
+-- QF
+UPDATE tb_schedule
+SET resultT1='49', result='DEF', resultT2='39', gamePlayed=1
+WHERE roundID = 235
+
+-- SF
+UPDATE tb_schedule
+SET resultT1='28', result='LST', resultT2='46', gamePlayed=1
+WHERE roundID = 237
+
+===========================
+
+
+Winter Season 2012, SUNDAY
+
+===========================
+
+
+-- Grading 1
+UPDATE tb_schedule
+SET resultT1='41', result='DEF', resultT2='35', gamePlayed=1
+WHERE roundID = 198
+
+
+-- Grading 2
+UPDATE tb_schedule
+SET resultT1='37', result='LST', resultT2='55', gamePlayed=1
+WHERE roundID = 200
+
+-- Round 1
+UPDATE tb_schedule
+SET resultT1='0', result='BYE', resultT2='0', gamePlayed=0
+WHERE roundID = 202
+
+-- Round 2
+UPDATE tb_schedule
+SET resultT1='34', result='LST', resultT2='39', gamePlayed=1
+WHERE roundID = 204
+
+-- Round 3
+UPDATE tb_schedule
+SET resultT1='32', result='LST', resultT2='42', gamePlayed=1
+WHERE roundID = 206
+
+-- Round 4
+UPDATE tb_schedule
+SET resultT1='0', result='LST', resultT2='0', gamePlayed=0
+WHERE roundID = 208
+
+-- Round 5
+UPDATE tb_schedule
+SET resultT1='35', result='LST', resultT2='32', gamePlayed=1
+WHERE roundID = 210
+
+-- Round 6
+UPDATE tb_schedule
+SET resultT1='33', result='LST', resultT2='37', gamePlayed=1
+WHERE roundID = 212
+
+-- Round 7
+UPDATE tb_schedule
+SET resultT1='0', result='LST', resultT2='0', gamePlayed=0
+WHERE roundID = 214
+
+-- Round 8
+UPDATE tb_schedule
+SET resultT1='34', result='DEF', resultT2='24', gamePlayed=1
+WHERE roundID = 216
+
+-- Round 9
+UPDATE tb_schedule
+SET resultT1='34', result='LST', resultT2='72', gamePlayed=1
+WHERE roundID = 218
+
+-- Round 10
+UPDATE tb_schedule
+SET resultT1='35', result='LST', resultT2='61', gamePlayed=1
+WHERE roundID = 220
+
+-- Round 11
+UPDATE tb_schedule
+SET resultT1='36', result='LST', resultT2='43', gamePlayed=1
+WHERE roundID = 222
+
+-- Round 12
+UPDATE tb_schedule
+SET resultT1='52', result='DEF', resultT2='43', gamePlayed=1
+WHERE roundID = 224
+
+-- Round 13
+UPDATE tb_schedule
+SET resultT1='31', result='LST', resultT2='71', gamePlayed=1
+WHERE roundID = 226
+
+-- Q.Final
+UPDATE tb_schedule
+SET resultT1='28', result='DEF', resultT2='26', gamePlayed=1
+WHERE roundID = 228
+
+-- S.Final
+UPDATE tb_schedule
+SET resultT1='10', result='DEF', resultT2='0', gamePlayed=0
+WHERE roundID = 230
+
+-- G.Final
+UPDATE tb_schedule
+SET resultT1='46', result='LST', resultT2='50', gamePlayed=1
+WHERE roundID = 232
